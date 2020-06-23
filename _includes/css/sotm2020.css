@@ -17,6 +17,12 @@ html {
   color: {{ site.color.links-white }};
 }
 
+header{
+
+background-image: url("img/paper.gif");
+
+}
+
 h1,
 h2,
 h3,
